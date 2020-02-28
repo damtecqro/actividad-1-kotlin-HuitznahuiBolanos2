@@ -1,3 +1,9 @@
+# Instrucciones de revisión:
+
+* Las actividades se encuentran en el proyecto de "Tarea1Kotlin".
+* Cada uno de los problemas tiene su propio archivo .kts
+
+
 # Tarea 1 Introducción a Kotlin
 
 ## Objetivo
